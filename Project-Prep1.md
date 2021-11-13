@@ -51,3 +51,17 @@
 1. Communication platforms
   1. Slack - group messages
   1. Remo
+1. If collaborating, every hour take a 5 minute break.  If working individually, take any necessary breaks.  Check in with other team members every hour or two to ensure they are taking a break.
+1. If falling behind, we need to re-evaluate our MVP.  Check for help needs among other members.
+1. We'll communicate via Slack after hours and on weekends.
+1. To ensure everyone's voice is heard, we will listen and ask at the end of a conversation if there's anything someone wants to add.
+1. We will create a safe environment by being respectful, dealing with our conflicts as they emerge instead of letting them simmer.
+
+## Work Plan
+1. Task management will be handled using Trello.  The UML will be created in Miro.
+
+## Git Process
+1. A main branch, a working branch, and each feature will have a separate branch to merge into the working branch which gets merged into the main branch when the MVP is achieved.
+1. The repository has been shared via making team member collaborators.
+1. The Git flow will be that as soon as a feature is completed, it will be ACP'd to the working directory.
+1. Yes, we will be using a PR review workflow.  It will require 2 people to review the code.  The person who merges the PR will be the person that created the PR.  There will be a merge whenever there is a completed feature.  Communicating that it is time to merge will be done via Slack.
