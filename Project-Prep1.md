@@ -19,7 +19,7 @@
 1. JJ - Data Structures and Algorithms
 1. Jacob - CSS, JavaScript (OOP)
 1. Marni - JavaScript (event handling, localStorage), CSS, debugging
-1. Pedro - ??
+1. Pedro - Javascript, Debugging
 
 ## Day-to-Day Work Approach
 1. Agile documentation (e.g., Trello)
