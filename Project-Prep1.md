@@ -5,21 +5,18 @@
 1. JJ Escandor - Goal Oriented
 1. Jacob Amsbury - Creativity, Detail Oriented
 1. Marni Hager - Organization, Goal Oriented, Speaking
-1. Pedro Perez - People Person, Creating Presentations
 
 ## Technical Strengths of Each Person
 1. David - Debugging, Finding Errors
 1. JJ - JavaScript, CSS
 1. Jacob - Debugging, Pattern Recognition
 1. Marni - Logical, Documentation
-1. Pedro - ??
 
 ## Skills & Professional Competencies Desired to Develop
 1. David - Prototyping (in this project), CSS (not in this project)
 1. JJ - Data Structures and Algorithms
 1. Jacob - CSS, JavaScript (OOP)
 1. Marni - JavaScript (event handling, localStorage), CSS, debugging
-1. Pedro - Javascript, Debugging
 
 ## Day-to-Day Work Approach
 1. Agile documentation (e.g., Trello)
@@ -51,7 +48,6 @@
   1. JJ - Anytime after 4:30pm (EST)
   1. Jacob - Anytime after 4:30pm (PST)
   1. Marni - Anytime after 6:00pm (PST)
-  1. Pedro - ??
 1. Communication platforms
   1. Slack - group messages
   1. Remo
